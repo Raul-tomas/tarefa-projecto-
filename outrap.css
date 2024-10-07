@@ -1,0 +1,57 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+nav {
+    background-color: #F2F2F2;
+    padding: 10px;
+}
+
+nav img {
+    width: 150px;
+    height: auto;
+}
+
+main{
+    background-color: #769A5A;
+    padding: 40px 4%;
+    display: flex;
+    img{
+        padding-left: 150px;
+
+    }
+    
+}
+h1,p{
+    color: white;
+}
+
+#palavras{
+    padding-top: 100px;
+}
+
+button{
+    background-color: white;
+    color: #769A5A;
+    border: none;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    border-radius: 4px;
+    
+}
+
+footer{
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+    
+}
+
+
